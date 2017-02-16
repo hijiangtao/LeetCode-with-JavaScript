@@ -1,5 +1,9 @@
 # LeetCodeOJ
 
+This is the solution collection of my LeetCode problems, most of them are programmed in JavaScript.
+
+Progress: 4/
+
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
