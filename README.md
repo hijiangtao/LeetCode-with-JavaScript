@@ -16,6 +16,7 @@ Progress: 14/
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/employees-earning-more-than-their-managers/res.txt)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./src/duplicate-emails/res.txt)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./src/department-highest-salary/res.txt)|Medium|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](./src/delete-duplicate-emails/res.txt)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
