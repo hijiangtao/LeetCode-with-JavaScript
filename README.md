@@ -2,7 +2,7 @@
 
 This is the solution collection of my LeetCode problems, most of them are programmed in JavaScript.
 
-Progress: 18/
+Progress: 20/
 
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -11,6 +11,7 @@ Progress: 18/
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
