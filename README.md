@@ -22,9 +22,12 @@ Progress: 20/
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./src/duplicate-emails/res.txt)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](./src/customers-who-never-order/res.txt)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./src/department-highest-salary/res.txt)|Medium|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./src/reverse-bits/res.txt)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./src/reverse-bits/res.js)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](./src/delete-duplicate-emails/res.txt)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](./src/number-of-segments-in-a-string/res.js)|Easy|
+||[]() | [](./src//res.js)|Easy|
