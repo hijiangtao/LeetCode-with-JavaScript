@@ -28,6 +28,7 @@ Progress: 20/
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](./src/delete-duplicate-emails/res.txt)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
