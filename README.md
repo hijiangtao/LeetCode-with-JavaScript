@@ -2,7 +2,7 @@
 
 This is the solution collection of my LeetCode problems, most of them are programmed in JavaScript. All JavaScript codes are wrote in ECMAScript 6 standard, each solution file will contain a problem description in the beginning.
 
-**Progress: 28/**
+**Progress: 33/**
 
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -10,7 +10,9 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./src/add-two-numbers/res.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [JavaScript](./src/container-with-most-water/res.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [JavaScript](./src/letter-combinations-of-a-phone-number/res.js)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)|Easy|
