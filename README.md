@@ -8,6 +8,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./src/add-two-numbers/res.js)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
