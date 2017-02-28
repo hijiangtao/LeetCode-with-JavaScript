@@ -22,6 +22,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./src/single-number/res.js)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [SQL](./src/nth-highest-salary/res.txt)|Medium|
@@ -35,6 +36,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
