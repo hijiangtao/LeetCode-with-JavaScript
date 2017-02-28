@@ -39,6 +39,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](./src/shuffle-an-array/res.js)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](./src/number-of-segments-in-a-string/res.js)|Easy|
 ||[]() | [](./src//res.js)|Easy|
