@@ -18,6 +18,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [SQL](./src/nth-highest-salary/res.txt)|Medium|
