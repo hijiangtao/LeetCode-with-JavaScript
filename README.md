@@ -16,6 +16,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
