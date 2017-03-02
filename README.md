@@ -1,6 +1,8 @@
 # LeetCodeOJ
 
-This is the solution collection of my LeetCode problems, most of them are programmed in JavaScript. All JavaScript codes are wrote in ECMAScript 6 standard, each solution file will contain a problem description in the beginning.
+This is the solutions collection of my LeetCode submissions, most of them are programmed in JavaScript. All JavaScript codes are wrote in ECMAScript 6 standard, each solution file will contain a problem description in the beginning, and followed by some necessary explanation, some problems will provide more than one solution.
+
+**ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
 **Progress: 33/**
 
@@ -16,6 +18,7 @@ This is the solution collection of my LeetCode problems, most of them are progra
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
