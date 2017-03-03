@@ -22,6 +22,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
