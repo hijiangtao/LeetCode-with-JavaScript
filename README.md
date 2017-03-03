@@ -25,6 +25,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](./src/sort-colors/res.js)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./src/single-number/res.js)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
