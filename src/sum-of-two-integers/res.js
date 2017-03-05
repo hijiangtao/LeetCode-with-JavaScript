@@ -1,4 +1,6 @@
 /**
+ * Reference: http://www.cnblogs.com/kiven-code/archive/2012/09/15/2686922.html
+ * 
  * res.js
  * @authors Joe Jiang (hijiangtao@gmail.com)
  * @date    2017-03-03 22:05:30
