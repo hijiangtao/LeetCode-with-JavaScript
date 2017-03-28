@@ -49,4 +49,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](./src/shuffle-an-array/res.js)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](./src/number-of-segments-in-a-string/res.js)|Easy|
-||[]() | [](./src//res.js)|Easy|
+||[]() | [](./src//res.js)||
