@@ -22,6 +22,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./src/permutations/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|

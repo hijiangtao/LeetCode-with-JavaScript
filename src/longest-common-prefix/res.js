@@ -37,3 +37,8 @@ let longestCommonPrefix = function(strs) {
     
     return prefix;
 };
+
+/**
+ * Another solution: Sort the array first, and then you can simply compare the first and last elements in the sorted array.
+ * 
+ */
