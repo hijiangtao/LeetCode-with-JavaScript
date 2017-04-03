@@ -12,6 +12,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./src/add-two-numbers/res.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./src/string-to-integer-atoi/res.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [JavaScript](./src/container-with-most-water/res.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
