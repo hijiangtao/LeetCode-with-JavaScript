@@ -31,6 +31,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](./src/sort-colors/res.js)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./src/single-number/res.js)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
