@@ -56,6 +56,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [JavaScript](./src/partition-equal-subset-sum/res.js)|Medium|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](./src/number-of-segments-in-a-string/res.js)|Easy|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./src/target-sum/res.js)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [JavaScript](./src/longest-palindromic-subsequence/res.js)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [JavaScript](./src/continuous-subarray-sum/res.js)|Medium|
 ||[]() | [](./src//res.js)||
