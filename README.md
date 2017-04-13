@@ -35,6 +35,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./src/single-number/res.js)|Easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [JavaScript](./src/maximum-product-subarray/res.js)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [SQL](./src/nth-highest-salary/res.txt)|Medium|
