@@ -49,6 +49,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](./src/delete-duplicate-emails/res.txt)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](./src/course-schedule/res.js)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
