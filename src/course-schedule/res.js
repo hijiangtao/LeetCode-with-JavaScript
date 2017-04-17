@@ -2,6 +2,8 @@
  * res.js
  * @authors Joe Jiang (hijiangtao@gmail.com)
  * @date    2017-04-17 00:09:34
+ *
+ * Topological sorting: https://en.wikipedia.org/wiki/Topological_sorting
  * 
  * There are a total of n courses you have to take, labeled from 0 to n - 1.
  * 
