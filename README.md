@@ -11,6 +11,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./src/add-two-numbers/res.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js) |Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript](./src/longest-palindromic-substring/res.js) |Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JavaScript](./src/zigzag-conversion/res.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./src/string-to-integer-atoi/res.js)|Medium|
@@ -25,6 +26,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./src/permutations/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|

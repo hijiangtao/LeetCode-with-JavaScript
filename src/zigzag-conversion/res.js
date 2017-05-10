@@ -4,7 +4,7 @@
  * @date    2017-05-10 16:32:48
  * 
  * Definition of Zigzag: https://en.wikipedia.org/wiki/Zigzag
- * 
+ * 本题的另一种解法: 每行元素之间下标大小相隔 2n-2, n=numRows
  * @param {string} s
  * @param {number} numRows
  * @return {string}
