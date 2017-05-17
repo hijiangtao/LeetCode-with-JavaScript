@@ -74,4 +74,5 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./src/target-sum/res.js)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [JavaScript](./src/longest-palindromic-subsequence/res.js)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [JavaScript](./src/continuous-subarray-sum/res.js)|Medium|
+|539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [JavaScript](./src/minimum-time-difference/res.js)|Medium|
 ||[]() | [](./src//res.js)||
