@@ -19,6 +19,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [JavaScript](./src/3sum/res.js) |Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [JavaScript](./src/3sum-closest/res.js) |Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [JavaScript](./src/letter-combinations-of-a-phone-number/res.js)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
