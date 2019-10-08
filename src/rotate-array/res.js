@@ -17,10 +17,73 @@
  * @param {number} k
  * @return {void} Do not return anything, modify nums in-place instead.
  */
-var rotate = function(nums, k) {
+const rotate = function(nums, k) {
     let numslen = nums.length;
     for (let i=0; i<k; i++) {
         let lastnode = nums.pop();
         nums.unshift(lastnode);
     }
 };
+
+/**
+ * 2
+ * @param {*} nums 
+ * @param {*} k 
+ */
+const rotate_2 = (nums, k) => {
+    let temp, previous;
+    for (let i = 0; i < k; i++) {
+        previous = nums[nums.length - 1];
+        for (let j = 0; j < nums.length; j++) {
+            temp = nums[j];
+            nums[j] = previous;
+            previous = temp;
+        }
+    }
+}
+
+/**
+ * 3
+ * @param {*} nums 
+ * @param {*} k 
+ */
+const rotate_3 = (nums, k) => {
+    let count = 0;
+
+    for (let start=0; count<nums.length; start++) {
+        let curIndex = start;
+        let prevNum = nums[start];
+
+        do {
+            const nextIndex = (curIndex + k) % nums.length;
+            let temp = nums[nextIndex];
+            nums[nextIndex] = prevNum;
+            prevNum = temp;
+            curIndex = nextIndex;
+            count++;
+        } while (start !== curIndex);
+    }
+}
+
+/**
+ * 4
+ * @param {*} nums 
+ * @param {*} k 
+ */
+const rotate_4 = (nums, k) => {
+    k %= nums.length;
+    reverse(nums, 0, nums.length - 1);
+    reverse(nums, 0, k - 1);
+    reverse(nums, k, nums.length - 1);
+}
+
+const reverse = (nums, start, end) => {
+    while (start < end) {
+        const temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+        
+        end -= 1;
+        start += 1;
+    }
+}
