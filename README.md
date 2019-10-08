@@ -38,6 +38,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JavaScript](./src/simplify-path/res.js)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](./src/sort-colors/res.js)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](./src/remove-duplicates-from-sorted-array-ii/res.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](./src/restore-ip-addresses/res.js)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
