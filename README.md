@@ -66,7 +66,10 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](./src/course-schedule/res.js)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [JavaScript](./src/course-schedule-ii/res.js)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./src/contains-duplicate/res.js)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
+|274|[H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](./src/h-index/res.js)|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [JavaScript](./src/bulls-and-cows/res.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [JavaScript](./src/minimum-height-trees/res.js)|Medium|
