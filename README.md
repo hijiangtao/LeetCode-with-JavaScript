@@ -67,6 +67,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](./src/course-schedule/res.js)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [JavaScript](./src/course-schedule-ii/res.js)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./src/contains-duplicate/res.js)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./src/contains-duplicate-ii/res.js)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](./src/h-index/res.js)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
