@@ -30,11 +30,12 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./src/first-missing-positive/res.js)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [JavaScript](./src/jump-game-ii/res.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./src/permutations/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [JavaScript](./src/anagrams/res.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [JavaScript](./src/jump-game/res.js)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) <sup>*</sup> | [JavaScript](./src/jump-game/res.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JavaScript](./src/simplify-path/res.js)|Medium|
