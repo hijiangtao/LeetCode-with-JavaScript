@@ -45,6 +45,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](./src/restore-ip-addresses/res.js)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [JavaScript](./src/word-ladder/res.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [JavaScript](./src/clone-graph/res.js)|Medium|
