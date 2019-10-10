@@ -29,6 +29,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./src/first-missing-positive/res.js)|Hard|
+|42|[	Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [JavaScript](./src/jump-game-ii/res.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./src/permutations/res.js)|Medium|
@@ -47,6 +48,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) <sup>*</sup> | [JavaScript](./src/best-time-to-buy-and-sell-stock-iii/res.js)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [JavaScript](./src/word-ladder/res.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [JavaScript](./src/clone-graph/res.js)|Medium|
@@ -63,6 +65,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./src/duplicate-emails/res.txt)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](./src/customers-who-never-order/res.txt)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](./src/department-highest-salary/res.txt)|Medium|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-iv/res.txt)|Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./src/rotate-array/res.js)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./src/reverse-bits/res.js)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](./src/delete-duplicate-emails/res.txt)|Easy|
@@ -78,6 +81,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [JavaScript](./src/bulls-and-cows/res.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [JavaScript](./src/minimum-height-trees/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
