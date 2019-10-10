@@ -83,6 +83,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [JavaScript](./src/minimum-height-trees/res.js)|Medium|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](./src/increasing-triplet-subsequence/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [JavaScript](./src/sum-of-two-integers/res.js)|Easy|
