@@ -50,6 +50,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) <sup>*</sup> | [JavaScript](./src/best-time-to-buy-and-sell-stock-iii/res.js)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [JavaScript](./src/word-ladder/res.js)|Medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [JavaScript](./src/longest-consecutive-sequence/res.js)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [JavaScript](./src/clone-graph/res.js)|Medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [JavaScript](./src/gas-station/res.js)|Medium|
