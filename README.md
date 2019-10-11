@@ -58,6 +58,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [JavaScript](./src/single-number-ii/res.js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [JavaScript](./src/maximum-product-subarray/res.js)|Medium|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](./src/maximum-gap/res.js)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](./src/compare-version-numbers/res.js)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
@@ -80,6 +81,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](./src/h-index/res.js)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](./src/find-the-duplicate-number/res.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [JavaScript](./src/bulls-and-cows/res.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
