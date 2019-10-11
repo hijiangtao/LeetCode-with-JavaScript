@@ -54,6 +54,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [JavaScript](./src/surrounded-regions/res.js)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/) | [JavaScript](./src/clone-graph/res.js)|Medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [JavaScript](./src/gas-station/res.js)|Medium|
+|135|[Candy](https://leetcode.com/problems/candy/) | [JavaScript](./src/candy/res.js)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./src/single-number/res.js)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [JavaScript](./src/single-number-ii/res.js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
