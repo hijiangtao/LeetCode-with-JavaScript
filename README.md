@@ -37,6 +37,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [JavaScript](./src/anagrams/res.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) <sup>*</sup> | [JavaScript](./src/jump-game/res.js)|Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](./src/insert-interval/res.js)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JavaScript](./src/simplify-path/res.js)|Medium|
