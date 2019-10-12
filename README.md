@@ -87,6 +87,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [JavaScript](./src/minimum-height-trees/res.js)|Medium|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [JavaScript](./src/count-of-smaller-numbers-after-self/res.js)|Hard|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [JavaScript](./src/count-of-range-sum/res.js)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](./src/increasing-triplet-subsequence/res.js)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
