@@ -83,6 +83,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](./src/h-index/res.js)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](./src/find-the-duplicate-number/res.js)|Medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [JavaScript](./src/game-of-life/res.js)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [JavaScript](./src/bulls-and-cows/res.js)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [JavaScript](./src/range-sum-query-mutable/res.js)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
