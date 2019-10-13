@@ -35,6 +35,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./src/permutations/res.js)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [JavaScript](./src/anagrams/res.js)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./src/maximum-subarray/res.js)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JavaScript](./src/spiral-matrix/res.js)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) <sup>*</sup> | [JavaScript](./src/jump-game/res.js)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](./src/merge-intervals/res.js)|Medium|
