@@ -46,6 +46,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](./src/sort-colors/res.js)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](./src/remove-duplicates-from-sorted-array-ii/res.js)|Medium|
+|88|[	Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./src/merge-sorted-array/res.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](./src/restore-ip-addresses/res.js)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
@@ -83,6 +84,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./src/contains-duplicate/res.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./src/contains-duplicate-ii/res.js)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [JavaScript](./src/contains-duplicate-iii/res.js)|Medium|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/solution/) | [JavaScript](./src/summary-ranges/res.js)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/) | [JavaScript](./src/product-of-array-except-self/res.js)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [JavaScript](./src/sliding-window-maximum/description/res.js)|Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
