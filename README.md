@@ -90,6 +90,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./src/search-a-2d-matrix-ii/res.js)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/) | [JavaScript](./src/h-index/res.js)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [JavaScript](./src/h-index-ii/res.js)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./src/move-zeroes/res.js)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](./src/find-the-duplicate-number/res.js)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [JavaScript](./src/game-of-life/res.js)|Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [JavaScript](./src/find-median-from-data-stream/res.js)|Hard|
