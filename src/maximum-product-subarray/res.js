@@ -32,3 +32,28 @@ let maxProduct = function(nums) {
 
 	return maxNow;
 };
+
+let maxProduct_2 = (nums) => {
+	let len = nums.length;
+	if (!len) {
+		return 0;
+	}
+
+	let maxNow = nums[0];
+	let imax = 1, imin = 1;
+	for (let i = 0; i < len; i++) {
+		if (nums[i] < 0) {
+			let tmp = imax;
+			imax = imin;
+			imin = tmp;
+		}
+
+		imax = Math.max(imax * nums[i], nums[i]),
+		imin = Math.min(imin * nums[i], nums[i]);
+        // console.log(imax, imin, nums[i])
+
+		maxNow = Math.max(maxNow, imax);
+	}
+
+	return maxNow;
+}
