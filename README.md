@@ -78,6 +78,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./src/rising-temperature/res.txt)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./src/reverse-linked-list/res.js)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](./src/course-schedule/res.js)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [JavaScript](./src/course-schedule-ii/res.js)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./src/contains-duplicate/res.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./src/contains-duplicate-ii/res.js)|Easy|
