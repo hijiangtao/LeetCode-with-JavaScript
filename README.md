@@ -28,6 +28,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./src/search-insert-position/res.js)|Easy|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./src/first-missing-positive/res.js)|Hard|
 |42|[	Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
