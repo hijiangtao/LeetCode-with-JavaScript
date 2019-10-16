@@ -1,4 +1,8 @@
 /**
+ * 二分法细节处理
+ * 1. mid 防止过大数的取值 mid = left + (right - left) / 2;
+ * 2. 循环条件 while (left <= right)
+ * 
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
@@ -20,6 +24,6 @@ var searchInsert = function(nums, target) {
       left = mid + 1;
     }
   }
-  
+
   return left;
 };
