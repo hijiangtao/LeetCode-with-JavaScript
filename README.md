@@ -47,6 +47,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JavaScript](./src/set-matrix-zeroes/res.js)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](./src/sort-colors/res.js)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](./src/remove-duplicates-from-sorted-array-ii/res.js)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [JavaScript](./src/search-in-rotated-sorted-array-ii/res.js)|Medium|
 |88|[	Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./src/merge-sorted-array/res.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](./src/restore-ip-addresses/res.js)|Medium|
@@ -64,6 +65,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [JavaScript](./src/single-number-ii/res.js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [JavaScript](./src/maximum-product-subarray/res.js)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array-ii/res.js)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](./src/maximum-gap/res.js)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](./src/compare-version-numbers/res.js)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
