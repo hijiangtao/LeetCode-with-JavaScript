@@ -18,13 +18,16 @@ var countSmaller = function(nums) {
     }
     
     mid = left + parseInt((right - left) / 2);
-  
+    
+    // 计算一下左边
     helper(nums, left, mid, indexList)
+    // 计算一下右边
     helper(nums, mid + 1, right, indexList)
   
     if(nums[indexList[mid]] < nums[indexList[mid+1]])
       return ;
       
+    // 两个子序列合并
     sort_and_count_smaller(nums, left, mid, right, indexList);
   }
   
