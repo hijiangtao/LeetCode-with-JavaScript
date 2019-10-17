@@ -67,6 +67,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [JavaScript](./src/maximum-product-subarray/res.js)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array-ii/res.js)|Medium|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](./src/find-peak-element/res.js)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](./src/maximum-gap/res.js)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](./src/compare-version-numbers/res.js)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
