@@ -110,6 +110,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [JavaScript](./src/sum-of-two-integers/res.js)|Easy|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [JavaScript](./src/guess-number-higher-or-lower/res.py)|Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [JavaScript](./src/wiggle-subsequence/res.js)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](./src/shuffle-an-array/res.js)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
