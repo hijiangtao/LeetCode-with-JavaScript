@@ -7,31 +7,31 @@
  */
 /**
  * @param {TreeNode} root
- * @return {number}
+ * @return {number[][]}
  */
-var minDepth = function(root) {
-  if (!root) return 0;
+var levelOrderBottom = function(root) {
+  if (!root) return [];
   
-  let queue = [root];
-  let res = 1;
-
-  while(queue.length) {
+  const getDepthNodes = (queue) => {
     const tempQ = [];
-    let isNull = false;
-      
+    const tempR = [];
     queue.map(e => {
-      if (!e.left && !e.right) isNull = true;
+      if (e.val !== undefined) tempR.push(e.val);
 
-      e.left && tempQ.push(e.left);
-      e.right && tempQ.push(e.right);
+      if (e.left) {
+        tempQ.push(e.left);
+      }
+      if (e.right) {
+        tempQ.push(e.right);
+      }
     });
-    queue = tempQ;
-    if (isNull) {
-      break;
+
+    if (tempQ.length) {
+      return getDepthNodes(tempQ).concat([tempR]);
     } else {
-      res += 1;
+      return [tempR];
     }
   }
 
-  return res;
+  return getDepthNodes([root]);
 };
