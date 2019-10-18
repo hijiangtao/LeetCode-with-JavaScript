@@ -52,6 +52,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |88|[	Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./src/merge-sorted-array/res.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JavaScript](./src/decode-ways/res.js)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JavaScript](./src/restore-ip-addresses/res.js)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](./src/symmetric-tree/res.js)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
