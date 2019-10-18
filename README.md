@@ -11,6 +11,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./src/add-two-numbers/res.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js) |Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JavaScript](./src/median-of-two-sorted-arrays/res.js) |Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript](./src/longest-palindromic-substring/res.js) |Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JavaScript](./src/zigzag-conversion/res.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./src/reverse-integer/res.js)|Easy|
@@ -70,6 +71,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](./src/find-peak-element/res.js)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [JavaScript](./src/maximum-gap/res.js)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [JavaScript](./src/compare-version-numbers/res.js)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [SQL](./src/combine-two-tables/res.txt)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/second-highest-salary/res.txt)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [SQL](./src/nth-highest-salary/res.txt)|Medium|
@@ -86,6 +88,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [JavaScript](./src/course-schedule/res.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [JavaScript](./src/course-schedule-ii/res.js)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [JavaScript](./src/kth-largest-element-in-an-array/res.js)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./src/contains-duplicate/res.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./src/contains-duplicate-ii/res.js)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [JavaScript](./src/contains-duplicate-iii/res.js)|Medium|
@@ -108,6 +111,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) <sup>*</sup> | [JavaScript](./src/count-of-smaller-numbers-after-self/res.js)|Hard|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [JavaScript](./src/count-of-range-sum/res.js)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](./src/increasing-triplet-subsequence/res.js)|Medium|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [JavaScript](./src/longest-substring-with-at-most-k-distinct-characters/res.js)|Hard|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [JavaScript](./src/power-of-four/res.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./src/reverse-string/res.js)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [JavaScript](./src/intersection-of-two-arrays/res.js)|Easy|
@@ -116,9 +120,11 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [JavaScript](./src/guess-number-higher-or-lower/res.py)|Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [JavaScript](./src/wiggle-subsequence/res.js)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [JavaScript](./src/shuffle-an-array/res.js)|Medium|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [JavaScript](./src/longest-substring-with-at-least-k-repeating-characters/res.js)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [JavaScript](./src/sum-of-left-leaves/res.js)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JavaScript](./src/arithmetic-slices/res.js)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [JavaScript](./src/partition-equal-subset-sum/res.js)|Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [JavaScript](./src/longest-repeating-character-replacement/res.js)|Medium|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [JavaScript](./src/number-of-segments-in-a-string/res.js)|Easy|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [JavaScript](./src/predict-the-winner/res.js)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JavaScript](./src/target-sum/res.js)|Medium|

@@ -68,3 +68,28 @@ let lengthOfLongestSubstring = function(s) {
    
    return maxLen;
 };
+
+/**
+ * 滑动窗口
+ * @param {*} s 
+ */
+let lengthOfLongestSubstring_2 = function(s) {
+    let strlen = s.length;
+    let start = 0;
+    let strdict = {};
+    let max = 0;
+
+    for (let i = 0; i < strlen; i++) {
+        const e = s[i];
+        
+        if (strdict[e] !== undefined && strdict[e] >= start) {
+            start = strdict[e] + 1;
+        } else {
+            const curLen = i-start+1;
+            max = Math.max(curLen, max);
+        }
+        
+        strdict[e] = i;
+    }
+    return max;
+}
