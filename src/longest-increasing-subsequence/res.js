@@ -20,3 +20,27 @@ var lengthOfLIS = function(nums) {
   res.map(e => e > max ? max=e:null);
   return max;
 };
+
+const lengthOfLIS_2 = (nums) => {
+  let tails = nums.map(() => 0), res = 0;
+
+  nums.map((num) => {
+    let i = 0, j = res;
+
+    while (i<j) {
+      const m = (i+j) >> 1;
+      if (tails[m] < num) {
+        i = m+1;
+      } else {
+        j = m;
+      }
+    }
+
+    tails[i] = num;
+    if (j === res) {
+      res += 1;
+    }
+  });
+
+  return res;
+}
