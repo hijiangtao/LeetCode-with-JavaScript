@@ -42,6 +42,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) <sup>*</sup> | [JavaScript](./src/jump-game/res.js)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](./src/merge-intervals/res.js)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](./src/insert-interval/res.js)|Hard|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [JavaScript](./src/unique-paths/res.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./src/plus-one/res.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JavaScript](./src/simplify-path/res.js)|Medium|
