@@ -11,7 +11,7 @@ var uniquePaths = function(m, n) {
       if (i === 0 || j === 0) {
         list[i][j] = 1;
       } else {
-        list[i][j] = Math.max(list[i-1][j] + list[i][j-1]);
+        list[i][j] = list[i-1][j] + list[i][j-1];
       }
     }
   }
