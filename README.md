@@ -55,6 +55,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](./src/same-tree/res.js)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](./src/symmetric-tree/res.js)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [JavaScript](./src/binary-tree-level-order-traversal-ii/res.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./src/triangle/res.js)|Medium|
