@@ -17,7 +17,11 @@ var combinationSum2 = function(candidates, target) {
       calCombs(candis.slice(1), [...resArr, ele], targ-ele);
     }
 
-    calCombs(candis.slice(1), [...resArr], targ);
+    let sliceIndex = 0;
+    while (sliceIndex < candis.length && candis[0] === candis[sliceIndex]) {
+      sliceIndex++;
+    }
+    calCombs(candis.slice(sliceIndex), [...resArr], targ);
   }
 
   calCombs(candidates, [], target);

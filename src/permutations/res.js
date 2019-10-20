@@ -45,3 +45,27 @@ let subpermute = function(base, nums) {
 
 	return res;
 };
+
+
+/**
+ * @param {number[]} nums
+ * @return {number[][]}
+ */
+var permute = function(nums) {
+	const len = nums.length;
+	if (!len) return [];
+	const res = [];
+
+	const enmurate = (preArr, candidates) => {
+		if (candidates.length === 1) return res.push([...preArr, ...candidates]);
+
+		for (let i = 0; i < candidates.length; i++) {
+			const temp = candidates.slice();
+			temp.splice(i, 1);
+			enmurate([...preArr, candidates[i]], temp);
+		}
+	}
+
+	enmurate([], nums.slice());
+	return res;
+};
