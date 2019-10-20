@@ -143,3 +143,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [JavaScript](./src/longest-palindromic-subsequence/res.js)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [JavaScript](./src/continuous-subarray-sum/res.js)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [JavaScript](./src/minimum-time-difference/res.js)|Medium|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [JavaScript](./src/longest-univalue-path/res.js)|Easy|
