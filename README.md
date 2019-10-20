@@ -121,6 +121,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [JavaScript](./src/minimum-height-trees/res.js)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) <sup>*</sup> | [JavaScript](./src/count-of-smaller-numbers-after-self/res.js)|Hard|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/) | [JavaScript](./src/coin-change/res.js)|Medium|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [JavaScript](./src/count-of-range-sum/res.js)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [JavaScript](./src/increasing-triplet-subsequence/res.js)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [JavaScript](./src/longest-substring-with-at-most-k-distinct-characters/res.js)|Hard|
