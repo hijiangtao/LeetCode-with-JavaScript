@@ -31,6 +31,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./src/search-insert-position/res.js)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [JavaScript](./src/combination-sum/res.js)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./src/first-missing-positive/res.js)|Hard|
 |42|[	Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
