@@ -48,3 +48,31 @@ let letterCombinations = function(digits) {
    
    return res;
 };
+
+/**
+ * @param {string} digits
+ * @return {string[]}
+ */
+var letterCombinations_2 = function(digits) {
+    const mapping = ["", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"];
+    const res = [];
+    const len = digits.length;
+    if (len < 1) return [];
+
+    const getCombs = (prefix, start, end) => {
+        const digitMap = mapping[digits[start]];
+        // console.log(prefix, start, end, digitMap);
+        if (start === end) {
+            return digitMap ? digitMap.split('').map(subfix => {
+                return prefix + subfix;
+            }) : [prefix];
+        } else {
+            const subCombs = digitMap ? digitMap.split('').map(subfix => getCombs(prefix+subfix, start + 1, end)) : [getCombs(prefix, start + 1, end)];
+            return subCombs.reduce((acc, cur) => {
+                return acc.concat(cur);
+            }, []);
+        }
+    }
+
+    return res.concat(getCombs('', 0, len-1));
+  };
