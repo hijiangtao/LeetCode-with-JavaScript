@@ -26,6 +26,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./src/remove-element/res.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./src/implement-strstr/res.js)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./src/divide-two-integers/res.js)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./src/search-for-a-range/res.js)|Medium|
