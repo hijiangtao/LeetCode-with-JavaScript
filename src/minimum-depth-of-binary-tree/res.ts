@@ -16,7 +16,7 @@ function minDepth(root: TreeNode | null): number {
     if (!root) {
         return 0;
     }
-    
+
     if (!root.left && !root.right) {
         return 1;
     }
