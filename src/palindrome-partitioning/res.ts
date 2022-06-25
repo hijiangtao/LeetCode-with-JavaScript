@@ -1,6 +1,6 @@
 function partition(s: string): string[][] {
-    const result = [];
-    let answers = [];
+    const result: string[][] = [];
+    let answers: string[] = [];
 
     const dfs = (i:number) => {
         if (i === s.length) {
