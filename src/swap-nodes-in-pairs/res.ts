@@ -38,3 +38,14 @@ function swapPairs(head: ListNode | null): ListNode | null {
 
     return result;
 };
+
+function swapPairs2(head: ListNode | null): ListNode | null {
+    if (!head?.next) {
+        return head;
+    }
+
+    const result = head.next;
+    head.next = swapPairs(result.next);
+    result.next = head;
+    return result;
+}
