@@ -11,6 +11,9 @@ class ListNode {
     }
 }
 
+/**
+ * 迭代法或者递归法均可实现，本实现为迭代法
+ */
 function swapPairs(head: ListNode | null): ListNode | null {
     if (!head?.next) {
         return head;
@@ -39,6 +42,10 @@ function swapPairs(head: ListNode | null): ListNode | null {
     return result;
 };
 
+/**
+ * 递归法
+ * @param head
+ */
 function swapPairs2(head: ListNode | null): ListNode | null {
     if (!head?.next) {
         return head;

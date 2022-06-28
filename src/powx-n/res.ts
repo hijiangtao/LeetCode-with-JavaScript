@@ -1,3 +1,8 @@
+/**
+ * 迭代法或者递归法均可实现，本实现为递归法
+ * @param x
+ * @param n
+ */
 function myPow(x: number, n: number): number {
     if (n === 0) {
         return 1;
