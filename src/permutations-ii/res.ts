@@ -10,6 +10,7 @@ function getUniqueList(numsCountMap: { [key in number]: number }): number[][] {
 
         if (currentCount) {
             const newNumsCountMap = { ...numsCountMap };
+            // @ts-ignore
             newNumsCountMap[key]--;
             for (let newKey in newNumsCountMap) {
                 if (!newNumsCountMap[newKey]) {
